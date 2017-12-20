@@ -1,0 +1,19 @@
+{
+    "name": "bootphpcom/bootphp",
+    "type": "project",
+    "description": "BootPHP Framework for PHP 7",
+    "keywords": ["bootphp"],
+    "homepage": "http://bootphp.com/",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "BootPHP",
+            "email": "admin@bootphp.com",
+            "homepage": "http://bootphp.com/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    }
+}
